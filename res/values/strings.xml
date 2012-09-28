@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General/Common Strings -->
+    <string name="app_name">Friendz</string>
+    <string name="required">Required</string>
+    <string name="ok">OK</string>
+
+    <!-- Login Activity -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="incorrect_credentials">Incorrect Email/Password</string>
+
+    <!-- Friend List Activity -->
+    <string name="friend_list">Friend List</string>
+    <string name="no_item_found">None found! Use the menu to add one.</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!-- Friend Details Activity -->
+    <string name="friend_details">Friend Details</string>
+    <string name="id">ID</string>
+
+    <!-- Add/Edit Friend Activity -->
+    <string name="edit_friend">Edit Friend</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string-array name="roboguice_modules">
+        <item>net.therap.friendz.app.ApplicationModule</item>
+    </string-array>
+</resources>
